@@ -1,12 +1,13 @@
-from pathlib import Path
 import random
+from pathlib import Path
+from typing import Optional
+
+import typer
 from rich.console import Console
 from rich.pretty import pprint
-from typing import Optional
-import typer
 
-
-from .tips import names, get_tips
+from .tips import get_tips
+from .tips import names
 
 
 def main(

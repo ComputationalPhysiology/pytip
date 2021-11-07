@@ -1,0 +1,6 @@
+dictionaryDefinitions:
+  - name: pytip
+    path: .cspell_dict.txt
+    addWords: true
+dictionaries:
+  - pytip

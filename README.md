@@ -13,7 +13,7 @@ Get tips and tricks
 [ ] `chain`
 [ ] `cycle`
 [ ] `accumulate`
-[ ] `combinations`  
+[ ] `combinations`
 [ ] `zip_longest`
 [ ] `starmap`
 [ ] `groupby`

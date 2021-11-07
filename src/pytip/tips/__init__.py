@@ -1,4 +1,5 @@
 from pathlib import Path as _Path
+
 from rich.markdown import Markdown
 
 _here = _Path(__file__).parent.absolute()
