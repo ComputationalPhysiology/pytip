@@ -1,6 +1,6 @@
 # Pytip
 
-Get tips and tricks
+cli for tips and tricks
 
 
 ## Ideas
@@ -25,15 +25,17 @@ Get tips and tricks
 #### `functools`
 [ ] `singledispatch`
 [ ] `cached_property`
-[ ] `lru_cache`
+[x] `lru_cache`
 [ ] `wrapped`
 [ ] `reduce`
-[ ] `partial`
+[x] `partial`
 [ ] `total_ordering`
 
 #### `collections`
 [ ] `Counter`
 [ ] `defaultdict`
+[ ] `namedtuple`
+[ ] `ChainMap`
 
 #### `difflib`
 [ ] Find best match of words
@@ -53,11 +55,11 @@ Get tips and tricks
 
 [ ] `itemgetter`
 
-#### Vanilla
+#### General
 
 [ ] Merge dictionaries
 [ ] Sort with custom key
-[ ] Get value in dictionary with missing keys
+[x] Get value in dictionary with missing keys
 [ ] Get value in nested dictionary with missing keys
 [ ] Create dictionary for zip
 [ ] Generator comprehension vs list comprehension

@@ -15,3 +15,4 @@ itemgetter
 typer
 maxsize
 mypy
+namedtuple
