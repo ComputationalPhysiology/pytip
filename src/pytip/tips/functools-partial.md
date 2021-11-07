@@ -1,6 +1,10 @@
-`functools.partial`
+---
+name: functools.partial
+keywords: python,functools
+description: Create a new function with partial application of arguments
+---
 
-Can be used to create a new function with partial application of the given arguments and keywords
+Create a new function with partial application of the given arguments and keywords
 
 ```python
 def add(x, y):

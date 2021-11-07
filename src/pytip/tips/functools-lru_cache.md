@@ -1,4 +1,8 @@
-`functools.lru_cache`
+---
+name: functools.lru_cache
+keywords: python,functools
+description: Cache results of Least-recently-used arguments
+---
 
 Cache results of Least-recently-used arguments
 
