@@ -16,3 +16,4 @@ typer
 maxsize
 mypy
 namedtuple
+conda
