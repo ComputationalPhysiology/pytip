@@ -9,43 +9,43 @@ cli for tips and tricks
 ### Python
 
 #### `itertools`
-[ ] `product`
-[ ] `chain`
-[ ] `cycle`
-[ ] `accumulate`
-[ ] `combinations`
-[ ] `zip_longest`
-[ ] `starmap`
-[ ] `groupby`
-[ ] `compress`
-[ ] `islice`
-[ ] `takewhile`
-[ ] `tee`
+- [ ] `product`
+- [ ] `chain`
+- [ ] `cycle`
+- [ ] `accumulate`
+- [ ] `combinations`
+- [ ] `zip_longest`
+- [ ] `starmap`
+- [ ] `groupby`
+- [ ] `compress`
+- [ ] `islice`
+- [ ] `takewhile`
+- [ ] `tee`
 
 #### `functools`
-[ ] `singledispatch`
-[ ] `cached_property`
-[x] `lru_cache`
-[ ] `wrapped`
-[ ] `reduce`
-[x] `partial`
-[ ] `total_ordering`
+- [ ] `singledispatch`
+- [ ] `cached_property`
+- [x] `lru_cache`
+- [ ] `wrapped`
+- [ ] `reduce`
+- [x] `partial`
+- [ ] `total_ordering`
 
 #### `collections`
-[ ] `Counter`
-[ ] `defaultdict`
-[ ] `namedtuple`
-[ ] `ChainMap`
+- [ ] `Counter`
+- [ ] `defaultdict`
+- [ ] `namedtuple`
+- [ ] `ChainMap`
 
 #### `difflib`
-[ ] Find best match of words
+- [ ] Find best match of words
 
 #### `filecmp`
-[ ] Check if two files are different
+- [ ] Check if two files are different
 
 #### `pathlib`
-[ ] Find location of current file
-[ ] Create directory with parents and if exists already
+- [ ] Find location of current file
+- [ ] Create directory with parents and if exists already
 
 
 #### `datetime`
@@ -53,18 +53,18 @@ cli for tips and tricks
 
 #### `operator`
 
-[ ] `itemgetter`
+- [ ] `itemgetter`
 
 #### General
 
-[ ] Merge dictionaries
-[ ] Sort with custom key
-[x] Get value in dictionary with missing keys
-[ ] Get value in nested dictionary with missing keys
-[ ] Create dictionary for zip
-[ ] Generator comprehension vs list comprehension
-[ ] `iter` - Get first value in a dictionary
+- [ ] Merge dictionaries
+- [ ] Sort with custom key
+- [x] Get value in dictionary with missing keys
+- [ ] Get value in nested dictionary with missing keys
+- [ ] Create dictionary for zip
+- [ ] Generator comprehension vs list comprehension
+- [ ] `iter` - Get first value in a dictionary
 
 #### Funny
-[ ] `import antigravity`
-[ ] `import this`
+- [ ] `import antigravity`
+- [ ] `import this`
